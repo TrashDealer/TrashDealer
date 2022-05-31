@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrashDealer
-- 👀 I’m interested in App Development
+- 👀 I’m interested in App Development and Python
 - 🌱 I’m currently learning Swift and SwiftUI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
